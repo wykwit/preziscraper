@@ -1,6 +1,6 @@
 {
   "name": "preziscraper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Scrape Prezi",
   "main": "index.js",
   "scripts": {
@@ -22,8 +22,8 @@
   },
   "homepage": "https://github.com/jonguenther/preziscraper#readme",
   "dependencies": {
-    "minimist": "^1.2.0",
-    "pdfkit": "^0.10.0",
-    "puppeteer-core": "^1.18.1"
+    "minimist": "latest",
+    "pdfkit": "latest",
+    "puppeteer": "latest"
   }
 }
